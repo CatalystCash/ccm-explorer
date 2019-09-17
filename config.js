@@ -1,5 +1,5 @@
-var api = 'http://37.58.122.124:9355';
-var apiList = ["http://37.58.122.124:9355", "http://37.58.122.124:9355"];
+var api = 'http://37.58.122.124:9356';
+var apiList = ["http://37.58.122.124:9356", "http://37.58.122.124:9356"];
 var blockTargetInterval = 120;
 var coinUnits = 100000000;
 var symbol = 'CCM';
